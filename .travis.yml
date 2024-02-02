@@ -1,10 +1,7 @@
 language: node_js
 node_js:
   - "stable"
-dist: focal
-script:
-  - npm install 
-  - npm run build
+ dist: focal
 deploy:
   provider: pages
   skip_cleanup: true
