@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MishaMykha/comp2156/static/css/main.f48a98bf.css",
+    "main.js": "/MishaMykha/comp2156/static/js/main.6ae53e25.js",
+    "index.html": "/MishaMykha/comp2156/index.html",
+    "main.f48a98bf.css.map": "/MishaMykha/comp2156/static/css/main.f48a98bf.css.map",
+    "main.6ae53e25.js.map": "/MishaMykha/comp2156/static/js/main.6ae53e25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48a98bf.css",
+    "static/js/main.6ae53e25.js"
+  ]
+}
