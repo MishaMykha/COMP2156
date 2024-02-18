@@ -21,7 +21,11 @@
   "bugs": {
     "url": "https://github.com/MishaMykha/comp2156/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/MishaMykha/comp2156",
+=======
+  "homepage": "https://github.com/MishaMykha/comp2156#readme",
+>>>>>>> 2f4bb7693ed64c16425d6a5aea7bced30bb4e41b
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^18.2.0",
